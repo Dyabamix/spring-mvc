@@ -1,9 +1,5 @@
 package web.models;
 
-import org.springframework.web.bind.annotation.ModelAttribute;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class Car {
     private String model;
